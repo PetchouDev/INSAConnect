@@ -1,0 +1,12 @@
+# excude dev files
+.idea
+.vscode
+__pycache__
+
+# exclude compilation files
+output
+
+# exclude website files
+index.html
+assets/style.css
+
